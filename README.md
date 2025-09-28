@@ -1,4 +1,5 @@
 📚 PDF Book Reader with AI Chat
+
 A Streamlit-based web application that allows users to upload PDF books and chat with them using AI. Built with RAG (Retrieval Augmented Generation) architecture, ChromaDB for vector storage, and Google Gemini API for intelligent responses.
 
 🚀 Features
